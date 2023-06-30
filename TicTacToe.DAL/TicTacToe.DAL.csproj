@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite.Core" Version="7.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="TicTacToe.Domain">
+      <HintPath>..\TicTacToe.Domain\bin\Debug\net7.0\TicTacToe.Domain.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

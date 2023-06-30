@@ -1,0 +1,15 @@
+D:\Projects\Pet-projects\TicTacToe.Backend\TicTacToe.DAL\obj\Debug\net7.0\TicTacToe.DAL.csproj.AssemblyReference.cache
+D:\Projects\Pet-projects\TicTacToe.Backend\TicTacToe.DAL\obj\Debug\net7.0\TicTacToe.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Pet-projects\TicTacToe.Backend\TicTacToe.DAL\obj\Debug\net7.0\TicTacToe.DAL.AssemblyInfoInputs.cache
+D:\Projects\Pet-projects\TicTacToe.Backend\TicTacToe.DAL\obj\Debug\net7.0\TicTacToe.DAL.AssemblyInfo.cs
+D:\Projects\Pet-projects\TicTacToe.Backend\TicTacToe.DAL\obj\Debug\net7.0\TicTacToe.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\Pet-projects\TicTacToe.Backend\TicTacToe.DAL\bin\Debug\net7.0\TicTacToe.DAL.deps.json
+D:\Projects\Pet-projects\TicTacToe.Backend\TicTacToe.DAL\bin\Debug\net7.0\TicTacToe.DAL.dll
+D:\Projects\Pet-projects\TicTacToe.Backend\TicTacToe.DAL\bin\Debug\net7.0\TicTacToe.DAL.pdb
+D:\Projects\Pet-projects\TicTacToe.Backend\TicTacToe.DAL\bin\Debug\net7.0\TicTacToe.Domain.dll
+D:\Projects\Pet-projects\TicTacToe.Backend\TicTacToe.DAL\bin\Debug\net7.0\TicTacToe.Domain.pdb
+D:\Projects\Pet-projects\TicTacToe.Backend\TicTacToe.DAL\obj\Debug\net7.0\TicTacToe.DAL.csproj.CopyComplete
+D:\Projects\Pet-projects\TicTacToe.Backend\TicTacToe.DAL\obj\Debug\net7.0\TicTacToe.DAL.dll
+D:\Projects\Pet-projects\TicTacToe.Backend\TicTacToe.DAL\obj\Debug\net7.0\refint\TicTacToe.DAL.dll
+D:\Projects\Pet-projects\TicTacToe.Backend\TicTacToe.DAL\obj\Debug\net7.0\TicTacToe.DAL.pdb
+D:\Projects\Pet-projects\TicTacToe.Backend\TicTacToe.DAL\obj\Debug\net7.0\ref\TicTacToe.DAL.dll
